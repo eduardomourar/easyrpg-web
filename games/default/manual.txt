@@ -1,0 +1,175 @@
+>>>QUEST OF THE APOSTLES<<<
+"Read Me" Notes and Musings
+---------------------------
+(June 2001)
+
+TOC
+---
+1. Introduction
+2. Game Info
+3. Experience Points
+4. Character Movement
+5. Items
+6. More Game Info
+7. Hints on Gameplay
+8. About QotA and legal stuff
+
+Installation Instructions---if you haven't already installed on
+your hard drive, just click setup.exe and it will take care of the
+rest.
+
+1. Introduction
+----------------
+If you're reading this you've either downloaded Quest of the 
+Apostles to your hard drive, or someone else has; in which case 
+you might want to find out who and why? But seriously, if you are 
+clueless as to what Quest of the Apostles is; or if you're the 
+culprit who downloaded the game then READ ON for details on QotA 
+and game play.
+
+Quest of the Apostles is a Role Playing Game (RPG for short), which 
+means you get to pretend you're somebody else for a little while. 
+In this game you begin as Saul, a Jewish rabbi who lived at the 
+same time as Jesus Christ. Zealous for the Jewish religion, you 
+believe it is your duty to stomp out Christianity with its false 
+messiah (Jesus).
+
+[The Beta ends with Saul's conversion to Christianity. This game is
+a work in progress, and in the near future additional volumes will 
+track Saul's (actually, now Paul's) missionary journeys]
+
+2. Back to the game
+--------------------
+As a rabbi, your main tools (or weapons) are your knowlege of the 
+Torah (first five books of Moses), the Psalms (songs and wisdom 
+literature) and the Writings (or Prophets). These books make up 
+what Christians call the Old Testament of the Bible. You will also 
+quote the Talmud (Jewish commentary on the Bible) and use your 
+impressive debating skills. [After you become a Christian you will 
+be able to work miracles and drive out demons in Jesus' name...but 
+right now you've got your mouth and your fists]
+
+Your quest is to find Christians and arrest them; but you MUST make
+sure the person(s) you're speaking with are Christian before you 
+make the arrest. If you arrest a good, Jewish citizen you will have 
+to answer to the magistrate and will lose self-confidence. [Some 
+people will already be labled as "Sadducees" (a Jewish sect which 
+you also oppose, but aren't out to destroy) or "Christians"...don't 
+arrest the Sadducees but go ahead and argue with them to gain 
+experience levels - see below!]
+
+3. Experience Points
+---------------------
+RPGs are supposed to reflect real life in that your strengths and 
+abilities increase as you gain experience in your travels. Every 
+time you win a battle you will gain experience, and maybe other 
+things (like money or items). Make sure you investigate everything 
+and talk to everybody possible for hints, clues and allegations. 
+[To speak with somebody you must be standing next to them or in 
+front of them and press the "space bar" on your keyboard.]
+
+4. Character Movement
+----------------------
+Which gets me into another subject: controlling your character. All 
+moves are made with your keyboard.
+
++Use the "arrow keys" to move up, down, left or right. 
++Use the "space bar" OR the "Enter key" to talk to people, inspect 
+or move items, make selections, etc. 
++Use the "Esc key" OR the cipher on the Num Pad to escape the 
+screen you're in, to bring up your item menu or to cancel your last
+move (if it's not too late to cancel).
+
+NOTE: If the game is moving slow, try pressing your "F4 key" to minimize 
+the play screen. (I personally think it looks better in this mode!)
+NOTE: If your arrow keys aren't working properly, try disabling any
+joysticks or gamepads you have on your computer. Don't worry, you
+can reinstall them when you're done. (Go to START, SETTINGS, CONTROL
+PANEL, SYSTEM, DEVICE MANAGER, SOUND VIDEO & GAME CONTROLLERS and
+check "Remove")
+
+Battles will happen automatically and often when you least expect 
+them. You have three basic choices in a battle (whether a battle of
+words with a person, an actual fist-fight, a demonic attack or 
+attack by animal). 
+
+These 3 choices are: Battle, Strategy and Escape. 
++If you choose Escape you might be pursued and forced to fight; but 
+sometimes "run away, run away" is the best thing you can do. 
++Strategy picks your attack for you. This is good if you're fighting 
+more than one person or enemy at a time.
++Battle allows you to choose how you will attack and/or defend
+yourself. If you just hit the "space bar" or "enter key" repeatedly
+during a battle, you will basically be using your hands or fists to
+fight. You can also choose from items you already have, that you've 
+purchased or that were given to you. Experiment with them all to 
+find out what is best against which enemies.
+
+5. Items
+---------
+Which brings me to items. Items restore your strength, protect you 
+from attacks or give you special abilities. To check your item 
+inventory, click the "Esc key" and click on items. To equip items, 
+choose the item you want to use and hit the "space bar" or the 
+"Enter key" (standard stuff in all RPG games...)
+
+6. Now back to the game
+------------------------
+Since QotA is based on historical fact (if you don't believe the 
+Bible is historical, please e-mail me at gzanow@new-mercies.org---
+we've got to talk!) you will be basically repeating what is already 
+recorded in the Book of Acts. However, since this is a game we've 
+taken some creative liberties (just like Hollywood!) to fill in the
+"missing spaces" and make the gameplay more interesting. Feel free 
+to explore Saul's world by traveling around and inspecting buildings. 
+Since this is still the Beta version, some areas will be off limits 
+(you won't be able to enter); however, there are "side-quests" 
+built into the game and you might learn something or find useful 
+items by wandering around and playing with things.
+
+7. Hints on Gameplay:
+----------------------
+*Make sure you save OFTEN! In the cities you can save by visiting 
+a Synagogue or Temple. When on the world map, you can save by 
+pressing the "Esc key" and choosing "SAVE JOURNEY" from the menu.
+*Find the "Hint Man" ---he's always hanging around waiting to give 
+you clues.
+*Go to the school in Tarsus for basic training on equipping and 
+using items, as well as to find some clues and gain some experience
+points.
+*Make sure you visit the shops to purchase items you might need. 
+*There are poisonous scorpions in the desert. A few bottles of 
+antidote are good to carry with you at all times. Then again, 
+scorpions are one battle you may want to just run away from.
+*If the game is moving slow, try pressing your "F4 key" to minimize 
+the play screen. (I personally think it looks better in this mode!)
+*If your arrow keys aren't working properly, try disabling any
+joysticks or gamepads you have on your computer. Don't worry, you
+can reinstall them when you're done. (Go to START, SETTINGS, CONTROL
+PANEL, SYSTEM, DEVICE MANAGER, SOUND VIDEO & GAME CONTROLLERS and
+check "Remove")
+
+8. About this Beta
+-------------------
+This is a Beta game, which is to say it's still a work in progress
+and might have some bugs we didn't catch. If you find a bug, 
+please report it to gzanow@new-mercies.org so we can make the fix 
+in the updated version. Nothing in this game program should harm 
+your computer in any way, but for the sake of keeping legal and 
+avoiding a law suit I must make the following statement:
+
+QUEST OF THE APOSTLES (QOTA) AND RPG MAKER 2000 IS
+DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS 
+EXPRESSED OR IMPLIED. ***USE AT YOUR OWN RISK*** 
+THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, 
+LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING 
+OR MISUSING THIS SOFTWARE.
+
+Well, that's about it for now. To give credit where credit is due 
+I want to underscore that this game was created using RPG Maker 
+2000 which is available on the internet for a free download (make 
+your own, custom RPG games!) Go to http://rpgmaker.chat.ru for 
+free download.
+
+Any complaints or comments please e-mail Gary Zanow 
+(gzanow@new-mercies.org) or Dylan Zanow (marstead@hotmail.com)
